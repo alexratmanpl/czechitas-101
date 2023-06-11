@@ -100,7 +100,7 @@ Basic guidelines and links for Czechitas 2023 Academy.
 
 * **[Github Blog](https://github.blog/)**
 
-# Courses & books
+## Courses & books
 
 * **[ExploringJS](https://exploringjs.com/)**
 
