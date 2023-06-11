@@ -2,6 +2,7 @@
 Basic guidelines and links for Czechitas 2023 Academy.
 
 ## HTML
+
 * **[W3C Schools](https://www.w3schools.com/html/default.asp)**
 
 ## JS
@@ -11,6 +12,7 @@ Basic guidelines and links for Czechitas 2023 Academy.
     Complete JS tuturial, from basics till complex issues.
 
 ## CSS
+
 * **CSS Tricks**
 
     A lot of very good guides ("how to") into multiple subjects like:
@@ -23,7 +25,15 @@ Basic guidelines and links for Czechitas 2023 Academy.
 * **[BEM](https://getbem.com/naming/)**
 
     Naming convention for CSS.
-    
+
+## Design (free)
+
+* **[Unsplash](https://unsplash.com/)**
+
+* **[Pixabay](https://pixabay.com/)**
+
+* **[Figma](https://www.figma.com/)**
+
 ## Git
 
 * **[Manual](https://git-scm.com/docs)** 
@@ -36,9 +46,9 @@ Basic guidelines and links for Czechitas 2023 Academy.
 
 * **[MDN JS code guide](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript)**
 
-* **[Idiomatic JS code guide](https://github.com/rwaldron/idiomatic.js/)**
-
 * **[Airbnb JS code guide](https://github.com/airbnb/javascript)**
+
+* **[Idiomatic JS code guide](https://github.com/rwaldron/idiomatic.js/)**
 
 * **[Airbnb CSS style guide](https://github.com/airbnb/css)**
 
@@ -59,6 +69,7 @@ Basic guidelines and links for Czechitas 2023 Academy.
     Validate regular expressions.
 
 ## General purpose
+
 * **[Stackoverflow](https://stackoverflow.com/questions)**
 
     The most popular tech forum - that's usually a first choice when it comes to looking for a technical knowledge.
