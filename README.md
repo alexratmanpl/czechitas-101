@@ -131,10 +131,19 @@ Basic guidelines and links for Czechitas 2023 Academy.
 
     Visualization tools for Git. 
 
-* **[Github Copilot](https://github.com/features/copilot)**
-
-    ChatGPT integration - real time code suggestions.
-
 * **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**
 
-    Live code formatter
+    Live code formatter.
+
+* **[SVG Previewer](https://marketplace.visualstudio.com/items?itemName=vitaliymaz.vscode-svg-previewer)**
+
+    Live preview for SVG icons.
+
+* **[IntelliSense](https://code.visualstudio.com/docs/editor/intellisense)**
+
+    Code completion.
+
+* **[Github Copilot](https://github.com/features/copilot)**
+
+    ChatGPT integration - real time code suggestions (for more experienced).
+    
