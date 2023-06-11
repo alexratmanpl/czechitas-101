@@ -56,7 +56,7 @@ Basic guidelines and links for Czechitas 2023 Academy.
 
 * **[Regex101 validator](https://regex101.com/)**
 
-    Validate regular expressions
+    Validate regular expressions.
 
 ## General purpose
 * **[Stackoverflow](https://stackoverflow.com/questions)**
@@ -78,7 +78,7 @@ Basic guidelines and links for Czechitas 2023 Academy.
 
     Popular dev tool, extremely helpful when it comes to debugging (looking for the source of problem) web pages.
 
-# Reading
+## Reading
 
 * **[Medium](https://medium.com/tag/software-development)**
 
