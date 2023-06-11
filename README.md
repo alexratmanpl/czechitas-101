@@ -113,3 +113,17 @@ Basic guidelines and links for Czechitas 2023 Academy.
 * **[freeCodeCamp](https://www.freecodecamp.org/news/tag/blog/)**
 
     Not only React.
+
+## Useful VSCode plugins
+
+* **[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)**
+
+    Visualization tools for Git. 
+
+* **[Github Copilot](https://github.com/features/copilot)**
+
+    ChatGPT integration - real time code suggestions.
+
+* **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**
+
+    Live code formatter
