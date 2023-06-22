@@ -11,6 +11,14 @@ Basic guidelines and links for Czechitas 2023 Academy.
 
     Complete JS tuturial, from basics till complex issues.
 
+* **[JS/React patterns](https://www.patterns.dev/)**
+
+    Set of multiple JS/React patterns with code and explanation.
+
+* **[Understanding ECMAScript](https://v8.dev/blog/understanding-ecmascript-part-1)**
+
+* **[Logical operator lookup](https://www.joshwcomeau.com/operator-lookup/)**
+
 ## CSS
 
 * **CSS Tricks**
@@ -33,6 +41,16 @@ Basic guidelines and links for Czechitas 2023 Academy.
 * **[Pixabay](https://pixabay.com/)**
 
 * **[Figma](https://www.figma.com/)**
+
+* **[Logo Maker](https://app.logomakr.com/0bhU03)**
+
+* **[Ojoy](https://ojoy.netlify.app/)**
+
+    Upscaling low resolution photos.
+
+* **[Clipdrop](https://clipdrop.co/remove-background)**
+
+    Remove background from image.
 
 ## Git
 
@@ -115,7 +133,7 @@ Basic guidelines and links for Czechitas 2023 Academy.
 
 * **[ExploringJS](https://exploringjs.com/)**
 
-    Free PDF books - intro into JS.
+    Free PDF books - theoretical intro into JS.
 
 * **[Robin Wieruch's blog](https://www.robinwieruch.de/categories/react/)**
 
@@ -147,3 +165,6 @@ Basic guidelines and links for Czechitas 2023 Academy.
 
     ChatGPT integration - real time code suggestions (for more experienced).
     
+## Other (articles)
+
+* **[Human readable JavaScript](https://alistapart.com/article/human-readable-javascript/)**
